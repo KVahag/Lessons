@@ -1,3 +1,11 @@
 const PI = Math.PI;
-var r = parseFloat("enter number")
+
+var r = parseFloat("4 home 15.00")
 document.getElementById("value").innerHTML = r;
+
+var r, PI;
+r = 4;//r-ը շառավիղն է
+PI *= 8;//PI-ը տրամագիծն է
+P = 3.14;//P-ն \\շրջանագիծ է
+C = PI * P;
+document.getElementById("value").innerHTML = C;
