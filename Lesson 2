@@ -1,0 +1,3 @@
+const PI = Math.PI;
+var r = parseFloat("enter number")
+document.getElementById("value").innerHTML = r;
