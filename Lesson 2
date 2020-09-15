@@ -1,4 +1,4 @@
-const PI = Math.PI;
+nconst PI = Math.PI;
 
 let r = parseFloat("4 home 15.00")
 document.getElementById("value").innerHTML = r;
